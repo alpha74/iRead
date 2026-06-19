@@ -26,8 +26,8 @@ You're already reading from Iceberg tables — this is about knowing *why* thing
 ### Videos
 | Resource | Why |
 |---|---|
-| [Apache Iceberg Crash Course — Dremio (YouTube)](https://www.youtube.com/watch?v=8zPFteTPWiA) | Best conceptual intro, 45 min, covers snapshots + file layout visually |
-| [Apache Iceberg in 20 min — Alex Merced (YouTube)](https://www.youtube.com/watch?v=ifXpOn0NJWk) | Quick overview, good for reinforcing concepts after the longer video |
+| [Apache Iceberg Crash Course — Dremio (YouTube)](https://www.youtube.com/watch?v=MSuT20EqnnM&list=PL-gIUf9e9CCtGr_zYdWieJhiqBG_5qSPa) | Best conceptual intro, 45 min, covers snapshots + file layout visually |
+| [Apache Iceberg in 20 min — Alex Merced (YouTube)](https://www.youtube.com/watch?v=SIriNcVIGJQ&list=PLsLAVBjQJO0p0Yq1fLkoHvt2lEJj5pcYe) | Quick overview, good for reinforcing concepts after the longer video |
 | [Search: "Apache Iceberg table format explained"](https://www.youtube.com/results?search_query=apache+iceberg+table+format+explained) | Fallback if above links change |
 
 ### Checkpoint
