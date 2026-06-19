@@ -55,7 +55,7 @@ The quickstart doc from your team covers your specific Polaris + OAuth setup.
 ### Videos
 | Resource | Why |
 |---|---|
-| [PyIceberg Tutorial — Dremio (YouTube)](https://www.youtube.com/watch?v=ng7UIh4i8_o) | Walks through catalog connect → scan → filter in Python |
+| [PyIceberg Tutorial — Dremio (YouTube)](https://www.youtube.com/watch?v=eGi_0mmw6c0) | Walks through catalog connect → scan → filter in Python |
 | [Search: "PyIceberg tutorial"](https://www.youtube.com/results?search_query=pyiceberg+tutorial+polaris) | Smaller library, fewer videos — search if above changes |
 
 ### Checkpoint
