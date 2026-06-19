@@ -13,5 +13,5 @@
 ### Data Engineering
 
 - [Cloud data engg](https://github.com/alpha74/iRead/tree/main/data_engg)
- - Includes documentationa and video tutorial links.
- - Covers: `Apache Iceberg`, `PyIceberg`, `PySpark`, `GCP Dataproc`, `Apache Airflow`
+  - Includes documentationa and video tutorial links.
+  - Covers: `Apache Iceberg`, `PyIceberg`, `PySpark`, `GCP Dataproc`, `Apache Airflow`
