@@ -15,3 +15,4 @@
 - [Cloud Data Engg](https://github.com/alpha74/iRead/blob/main/data_engg/apache_iceberg.md)
   - Includes documentationa and video tutorial links.
   - Covers: `Apache Iceberg`, `PyIceberg`, `PySpark`, `GCP Dataproc`, `Apache Airflow`
+- [PyIceberg Commands](https://github.com/alpha74/iRead/blob/main/data_engg/pyiceberg_commands.md)
